@@ -27,22 +27,13 @@
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
+                      <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="1" attributes="0">
-                                  <Component id="labelJumlahKalimat" min="-2" max="-2" attributes="0"/>
-                                  <Component id="labelHasilCari" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                          </Group>
-                          <Group type="102" attributes="0">
-                              <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="labelJumlahKata" min="-2" max="-2" attributes="0"/>
-                                  <Component id="labelJumlahKarakter" min="-2" max="-2" attributes="0"/>
-                                  <Component id="labelJumlahParagraf" alignment="0" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                          </Group>
+                          <Component id="labelJumlahKalimat" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelJumlahKata" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelJumlahKarakter" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelJumlahParagraf" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelHasilCari" alignment="0" min="-2" max="-2" attributes="0"/>
                       </Group>
                       <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   </Group>
